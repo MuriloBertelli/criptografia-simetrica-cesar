@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CifraCesar {
+public class CifraCesarPROF {
 
     // Método para cifrar a mensagem
     public static String cifrar(String mensagem, int k) {
